@@ -21,19 +21,12 @@ To test and evaluate our implementation, we use the two provided datasets:
 
 
 #### Instructions how to build and run:
-The program is written in Python 3.
+The program is a Python 3 jupyter notebook.
+
+To run it type `jupyter notebook` in a terminal window from the project folder.
+Then the notebook can be viewed in the browser.
 
 The data used is in the `./data` folder.
 
-To run with provided data and default parameters, type:
-```commandline
-python src/main.py
-```
-
-To display the help menu and available parameters, type:
-```commandline
-python src/main.py -h
-...
-```
-
 #### Results
+The results can be found in the notebook and below:
